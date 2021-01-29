@@ -1,0 +1,5 @@
+*.bak
+
+# Database
+*.sqlite3
+
